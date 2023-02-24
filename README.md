@@ -1,0 +1,3 @@
+# prueba-git
+Esta es una prueba de un "proyecto" con git
+ETC...
